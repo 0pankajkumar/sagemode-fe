@@ -17,7 +17,7 @@
           <span class="q-ml-sm">Photos</span>
         </q-toolbar-title>
 
-        <q-space />
+        <q-space />hello
 
         <q-input class="GPL__toolbar-input" dense standout="bg-primary" v-model="search" placeholder="Search">
           <template v-slot:prepend>
